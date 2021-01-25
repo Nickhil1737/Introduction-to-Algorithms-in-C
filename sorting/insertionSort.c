@@ -16,7 +16,6 @@ void insertionSort(int *arr, int n)
 
 int main()
 {
-    int n = 8;
     int arr[] = {1,3,2,1,4,5,6,3};
-    insertionSort(arr,n);
+    insertionSort(arr,8);
 }

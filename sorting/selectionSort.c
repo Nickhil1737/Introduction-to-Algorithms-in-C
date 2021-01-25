@@ -19,7 +19,6 @@ void selectionSort(int *arr, int n)
 
 int main()
 {
-    int n = 8;
     int arr[] = {1,3,2,1,4,5,6,3};
-    selectionSort(arr,n);
+    selectionSort(arr,8);
 }
