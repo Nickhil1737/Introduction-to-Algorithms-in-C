@@ -2,7 +2,8 @@
 
 void countingSort(int arr[], int B[], int n, int k)
 {
-    int C[1000];    //array of size whose max index can be k
+    int C[1000];    
+    //array of size whose max index can be k
     for(int i = 0; i < k+1; ++i)
         C[i] = 0;
     for(int j = 0; j < n; ++j)
