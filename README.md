@@ -15,3 +15,9 @@
   * [Linked Lists](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/datastructures/linkedList.c)
   * [Priority Queue](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/datastructures/priorityQueue.c)
 
+* ####  Trees
+  * Binary Search Trees
+    * [Insertion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstInsertion.c)
+    * [Minimum and Maximum](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstMinMax.c)
+    * [Inorder Successor](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bst-successor.c)
+    * [Deletion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstInsertion.c)
