@@ -20,4 +20,7 @@
     * [Insertion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstInsertion.c)
     * [Minimum and Maximum](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstMinMax.c)
     * [Inorder Successor](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bst-successor.c)
-    * [Deletion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstInsertion.c)
+    * [Deletion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/bstDeletion.c)
+  * Red-Black Trees
+    * [Insertion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/RBtreeInsertion.c)
+    * [Deletion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/RBtreeInsertion.c)
