@@ -24,3 +24,8 @@
   * Red-Black Trees
     * [Insertion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/RBtreeInsertion.c)
     * [Deletion](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/trees/RBtreeInsertion.c)
+
+* ####  Graph
+  * [Depth First Search](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/Graph/dfs.c)
+  * [Breadth First Search](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/Graph/bfs.c)
+  * [Topological Sort](https://github.com/Nickhil1737/Introduction-to-Algorithms-in-C/blob/master/Graph/topological.c)
