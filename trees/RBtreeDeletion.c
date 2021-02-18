@@ -3,7 +3,6 @@
 
 #define RED 0
 #define BLACK 1
-
 struct node{
     int key;
     int color;
@@ -17,7 +16,6 @@ struct node * newMalloc(int key){
     x->right = NULL;
     return x;
 }
-
 
 struct node * treeMinimum(struct node *x)
 {
